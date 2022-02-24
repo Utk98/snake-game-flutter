@@ -1,4 +1,4 @@
-# tetrisgame
+# SnakeFood Game Flutter
 
 A new Flutter project.
 
